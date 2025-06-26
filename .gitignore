@@ -1,0 +1,15 @@
+# Python ignores
+# Python ignores
+__pycache__/
+*.pyc
+.venv/
+
+# Build files
+*.exe
+build/
+dist/
+
+# Project files to ignore
+weather.jpg
+installer.nsi
+Installation/
