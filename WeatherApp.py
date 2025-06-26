@@ -78,7 +78,7 @@ class Weather(QWidget):
 
         #your unique api key from OpenWeather website
          
-        api_key = "a85723f73a364296de4934796f47d93f" 
+        api_key = "Your Api Key" 
         # user input
         city = self.city_input.text()
         # formating the string
